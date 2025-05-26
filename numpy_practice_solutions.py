@@ -9,7 +9,7 @@ print("1. 1D Array from 10 to 50:\n", arr1)
 arr2 = np.ones((3, 4))
 print("\n2. 2D Array (3x4) with ones:\n", arr2)
 
-# 3. Generate 5 random float numbers between 0 and 1 using np.random.rand()
+# 3. Generate 5 random float numbers using np.random.rand()
 rand_floats = np.random.rand(5)
 print("\n3. Random floats:\n", rand_floats)
 
